@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the Elephant Island
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Stay curious, keep learning
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,8 +28,81 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+
+      - title: Amazing Stromal Cell
+        content: 'Decoding the role of rtromal cells in the CNS: From Health to Disease!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
+      - title: Decoding Aging
+        content: 'Uncover the key factors behind aging!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
+
+      - title: Catch it!
+        content: 'Help the immune cell hunt and capture the neoantigen!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
+
+      - title: Spatial Imaging Omics
+        content: 'openFISH: Eyes don’t lie!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
+      - title: Spatial Sequencing Omics
+        content: 'Exploring the wisdom of biological systems!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
+      - title: In Vivo Screening
+        content: 'Mapping gene function in situ!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
+
+
+
+
+      - title: Shaping the Future with us!
+        content: 'Since 2022-05-25'
         align: right
         background:
           image:
