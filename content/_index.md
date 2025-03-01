@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-    Shaping Future
+        Shaping Future!
+        奇思实验室
       image:
         filename: welcome.jpg
       text: |
