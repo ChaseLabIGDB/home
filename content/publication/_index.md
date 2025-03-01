@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 
-- [Neural Cell Competition Sculpting Brain from Cradle to Grave](https://doi.org/10.1093/nsr/nwaf057); **About National Science Review**; 2024  
+- [Neural Cell Competition Sculpting Brain from Cradle to Grave](https://doi.org/10.1093/nsr/nwaf057); **National Science Review**; 2024  
 - [Dermal TRPV1 innervations engage a macrophage- and fibroblast-containing pathway to activate hair growth in mice](https://doi.org/10.1016/j.devcel.2024.05.019); **Developmental Cell**; 2024  
 - [Fibroblasts: New players in the central nervous system?](https://doi.org/10.1016/j.fmre.2023.01.014); **Fundamental Research**; 2023  
 - [CD97 promotes spleen dendritic cell homeostasis through the mechanosensing of red blood cells](https://doi.org/10.1126/science.abi5965); **Science**; 2022  
