@@ -1,22 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-03-01
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        欢迎来到大象岛！
         Welcome to the Elephant Island!
-    
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Elephant Island** is a vibrant community of young people who share a belief in the power of innovation to shape the future. We are currently leveraging cutting-edge scientific and technological advances to address core challenges in neurobiology, immunology, and cancer biology. Wecome to join us on this exciting journey!
   
   - block: collection
     content:
