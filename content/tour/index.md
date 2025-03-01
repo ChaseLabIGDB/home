@@ -99,9 +99,7 @@ sections:
 
 
 
-
-
-      - title: Shaping the Future with us!
+      - title: Shape the Future with us!
         content: 'Since 2022-05-25'
         align: right
         background:
