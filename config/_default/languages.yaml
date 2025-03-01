@@ -9,12 +9,12 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh-Hans
-  contentDir: content/zh
-  title: 欢迎来到奇思实验室
-  params:
-    description: 奇思实验室主页
+# zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: 欢迎来到奇思实验室
+#  params:
+#    description: 奇思实验室主页
 #  menu:
 #    main:
 #      - name: 传
