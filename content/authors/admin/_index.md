@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lihui Duan (段力辉)
+title: Lihui Duan 段力辉
 
 # Full Name (for SEO)
 first_name: Lihui
