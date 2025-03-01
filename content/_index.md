@@ -7,8 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-    奇思塑未来
+      title: |奇思塑未来
       image:
         filename: welcome.jpg
       text: |
