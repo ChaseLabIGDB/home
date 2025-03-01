@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+    奇思塑未来
       image:
         filename: welcome.jpg
       text: |
