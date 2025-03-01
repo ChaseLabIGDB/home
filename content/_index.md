@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Elephant Island!
+title: Welcome to the Elephant Island!
 date: 2025-03-01
 type: landing
 
@@ -8,11 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to the Elephant Island!
+        欢迎来到大象岛！
       image:
         filename: welcome.jpg
       text: |
         <br>
+        
         **Elephant Island** is a dynamic community of young innovators dedicated to shaping the future through cutting-edge science and technology. Our current focus is on tackling fundamental challenges in neurobiology, immunology, and cancer biology. Join us on this exciting journey of discovery and impact!
   
   - block: collection
