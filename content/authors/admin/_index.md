@@ -1,41 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lihui Duan (段力辉)
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Lihui
+last_name: Duan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Institute of Genetics and Developmental Biology, Chinese Academy of Sciences 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroscience
+  - Immunology
+  - Stromal Cell
+  - Meninges
+  - Biotechnology
+  - Spatial Omics
+  - CRISPR Screening
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoctoral researcher in Immunology
+      institution: University of California, San Francisco
+      year: 2018-2022
+    - course: PhD in Neuroscience 
+      institution: Institute of Neuroscience, Chinese Academy of Sciences
+      year: 2010-2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'lihui.duan@genetics.ac.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/DuanLihui
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=T2MmL04AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ChaseLabIGDB/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +74,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lihui Duan is a Professor of Neuroscience at the Institute of Genetics and Developmental Biology. His research interests center on unraveling the role of stromal cells in the central nervous system (CNS), investigating their contributions across the spectrum from disease to health, using state-of-the-art biotechnology. Additionally, he has a strong passion for developing cutting-edge technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
