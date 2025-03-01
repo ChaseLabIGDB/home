@@ -1,5 +1,5 @@
 ---
-title: "[Actin Aggregations Mark the Sites of Neurite Initiation](https://www.ncbi.nlm.nih.gov/pubmed/26779918)"
+title: "Actin Aggregations Mark the Sites of Neurite Initiation"
 ## authors:
 ## - admin
 ## - Robert Ford
@@ -7,7 +7,8 @@ title: "[Actin Aggregations Mark the Sites of Neurite Initiation](https://www.nc
 ## - "Equal contribution"
 ## - "Equal contribution"
 date: "2016-01-18T00:00:00Z"
-doi: "https://link.springer.com/article/10.1007/s12264-016-0012-2"
+doi: "10.1007/s12264-016-0012-2"
+url: https://www.ncbi.nlm.nih.gov/pubmed/26779918
 
 # Schedule page publish date (NOT publication's date).
 ## publishDate: "2017-01-01T00:00:00Z"
@@ -26,14 +27,14 @@ publication_types: ["article-journal"]
 # Summary. An optional shortened abstract.
 ## summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-## tags:
-## - Source Themes
-## featured: false
+tags:
+- Source Themes
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-## url_pdf: http://arxiv.org/pdf/1512.04133v1
+## url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/26779918
 ## url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 ## url_dataset: ''
 ## url_poster: ''
@@ -54,15 +55,15 @@ publication_types: ["article-journal"]
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+## projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+## slides: example
+## ---
 
 ## {{% callout note %}}
 ## Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
