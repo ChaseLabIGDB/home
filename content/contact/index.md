@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        We seek trainees interested in advancing the mechanistic understanding of neuro-immune interactions in health and diseases, including neurodevelopmental disorders, neurodegenerative diseases, ageing, infectious diseases, autoimmune diseases, and cancer.
+        We are seeking trainees eager to advance the mechanistic understanding of neuro-immune interactions in health and disease, leveraging state-of-the-art technology. Our focus spans neurodevelopmental disorders, neurodegenerative diseases, aging, infectious diseases, autoimmune conditions, and cancer.
       email: lihui.duan@genetics.ac.cn
       phone: +86 (010) 64806596
       address:
