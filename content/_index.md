@@ -8,8 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Shaping Future!
-        奇思实验室
+        欢迎来到大象岛！
+        Welcome to the Elephant Island!
+    
       image:
         filename: welcome.jpg
       text: |
