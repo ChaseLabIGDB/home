@@ -30,7 +30,7 @@ sections:
           color: '#555'
 
       - title: Amazing Stromal Cell
-        content: 'Decoding the role of rtromal cells in the CNS: From Health to Disease!'
+        content: 'Decoding the role of stromal cells in the CNS: From Disease to Health!'
         align: left
         background:
           image:
