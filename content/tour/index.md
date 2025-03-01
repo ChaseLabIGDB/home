@@ -65,7 +65,7 @@ sections:
 
 
       - title: Spatial Imaging Omics
-        content: 'openFISH: Eyes don’t lie!'
+        content: 'OpenFISH: Eyes don’t lie!'
         align: left
         background:
           image:
