@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Ya 李芽
+title: Ya Li 李芽
 
 # Full name (for SEO)
 first_name: Ya
