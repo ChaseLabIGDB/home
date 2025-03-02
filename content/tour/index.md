@@ -62,7 +62,17 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-
+        
+      - title: Omni Omics
+        content: 'Next generation of single cell spatial omics!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
 
       - title: Spatial Imaging Omics
         content: 'OpenFISH: Eyes don’t lie!'
