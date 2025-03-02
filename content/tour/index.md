@@ -34,7 +34,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: YuX-figure-202208-fibroblast-update-DLH-V7.jpg
             filters:
               brightness: 0.7
           position: center
@@ -45,7 +45,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: ageing.jpg
             filters:
               brightness: 0.7
           position: center
@@ -57,7 +57,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: TLS.jpg
             filters:
               brightness: 0.7
           position: center
@@ -68,7 +68,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: 20250302_Gel.png
             filters:
               brightness: 0.7
           position: center
@@ -79,7 +79,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: SST.jpg
             filters:
               brightness: 0.7
           position: center
@@ -90,7 +90,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: DBIT.jpg
             filters:
               brightness: 0.7
           position: center
@@ -101,7 +101,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: CRISPR.jpg
             filters:
               brightness: 0.7
           position: center
