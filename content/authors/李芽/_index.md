@@ -34,7 +34,7 @@ education:
     - course: PhD in Neuroscience
       institution: Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
       year: 2021-the present
-   - course: BSc in Biotechnology
+    - course: BSc in Biotechnology
       institution: Inner Mongolia University
       year: 2017-2021
 
