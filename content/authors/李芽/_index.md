@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad students
+  - Grad Students
 ---
 
 Li Ya is a doctoral student of Professor Duan Lihui's research group at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences. His research interests include: the development of spatial transcriptome imaging technology; The interaction between the immune system and the central nervous system; Research on the pathogenesis of neurological diseases.
