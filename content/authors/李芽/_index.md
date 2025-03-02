@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Li Ya's research interests include: the development of spatial transcriptome imaging technology; The interaction between the immune system and the central nervous system; Research on the pathogenesis of neurological diseases.
+bio: "Li Ya's research interests include: the development of spatial transcriptome imaging technology; The interaction between the immune system and the central nervous system; Research on the pathogenesis of neurological diseases."
 
 interests:
   - Development of spatial transcriptomic imaging techniques
