@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Lihui Duan is a Professor of Neuroscience at the Institute of Genetics and Developmental Biology. His research interests center on unraveling the role of stromal cells in the central nervous system (CNS), investigating their contributions across the spectrum from disease to health, using state-of-the-art biotechnology. Additionally, he has a strong passion for developing cutting-edge technologies.
