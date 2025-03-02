@@ -2,7 +2,7 @@
 title: "OpenFISH Launch: Bring Spatial Transcriptomics to Your Lab"
 
 event: OpenFISH Release Day
-event_url: https://example.org
+#event_url: https://example.org
 
 location: IGDB
 # address:
