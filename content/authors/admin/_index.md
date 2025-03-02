@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lihui.duan@genetics.ac.cn'
+    link: 'mailto:lihui.duan@genetics.ac.cn'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/DuanLihui
