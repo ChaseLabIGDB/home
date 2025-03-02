@@ -1,5 +1,5 @@
 ---
-title: "OpenFISH Launch: Bring Spatial Transcriptomics to Your Lab"
+title: "Bring Spatial Transcriptomics to Your Lab"
 
 event: OpenFISH Release Day
 # event_url: https://openfish.org
