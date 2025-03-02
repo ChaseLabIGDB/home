@@ -1,8 +1,8 @@
 ---
-title: OpenFISH Launch: Bring Spatial Transcriptomics to Your Lab
+title: "OpenFISH Launch: Bring Spatial Transcriptomics to Your Lab"
 
 event: OpenFISH Release Day
-event_url: https://OpenFISHReleaseDay.org
+event_url: https://openfish.org
 
 location: IGDB
 # address:
