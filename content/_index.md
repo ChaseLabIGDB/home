@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **Elephant Island** is a dynamic community of young innovators dedicated to shaping the future through cutting-edge science and technology. Our current focus is on tackling fundamental challenges in neurobiology, immunology, and cancer biology. Join us on this exciting journey of discovery and impact!
+        **Elephant Island** is a dynamic community of young innovators dedicated to shape the future through cutting-edge science and technology. Our current focus is on tackling fundamental challenges in neurobiology, immunology, and cancer biology. Join us on this exciting journey of discovery and impact!
 
 #  - block: collection
 #    content:
