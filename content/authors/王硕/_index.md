@@ -62,5 +62,3 @@ user_groups:
 ---
 
 Wang Shuo is a doctoral student in the Duan Lab. Her research interests lie in neuroimmunology, and she hopes to explore cutting-edge issues in this field through in-depth study and practice.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
