@@ -45,7 +45,7 @@ sections:
         align: left
         background:
           image:
-            filename: ageing.jpg
+            filename: ageing.png
             filters:
               brightness: 0.7
           position: center
@@ -57,7 +57,7 @@ sections:
         align: left
         background:
           image:
-            filename: TLS.jpg
+            filename: TLS.png
             filters:
               brightness: 0.7
           position: center
