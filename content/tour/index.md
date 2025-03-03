@@ -57,7 +57,7 @@ sections:
         align: left
         background:
           image:
-            filename: TLS.png
+            filename: TLS.jpg
             filters:
               brightness: 0.7
           position: center
