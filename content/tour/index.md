@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: learn.png
             filters:
               brightness: 0.7
           position: center
@@ -68,7 +68,7 @@ sections:
         align: left
         background:
           image:
-            filename: Bridge.jpg
+            filename: peace.png
             filters:
               brightness: 0.7
           position: center
