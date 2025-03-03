@@ -68,7 +68,7 @@ sections:
         align: left
         background:
           image:
-            filename: 20250302_Gel.png
+            filename: Bridge.jpg
             filters:
               brightness: 0.7
           position: center
