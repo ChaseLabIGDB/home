@@ -114,7 +114,7 @@ sections:
         align: right
         background:
           image:
-            filename: 20250303195348.jpg
+            filename: 20250303200442.jpg
             filters:
               brightness: 0.5
           position: center
