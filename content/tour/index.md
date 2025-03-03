@@ -90,7 +90,7 @@ sections:
         align: left
         background:
           image:
-            filename: DBIT.jpg
+            filename: DBIT.png
             filters:
               brightness: 0.7
           position: center
