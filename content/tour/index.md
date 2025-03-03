@@ -34,7 +34,7 @@ sections:
         align: left
         background:
           image:
-            filename: YuX-figure-202208-fibroblast-update-DLH-V7.jpg
+            filename: pdgfrb.jpg
             filters:
               brightness: 0.7
           position: center
