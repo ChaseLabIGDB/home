@@ -18,7 +18,7 @@ role: Laboratory Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: IGDB
+  - name: Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,17 +29,15 @@ interests:
   - Biology&Sequencing
   - Management Science
 
-# education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
+education:
+  courses:
+    - course: LLM in Intellectual Property Law
+      institution: China University of Political Science and Law
+      year: 2021
+    - course: BE in Basic Medicine & Public Utility Management
+      institution: Lanzhou University
+      year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,9 +61,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Administration
-
 ---
 
-Yaran Yang is a highly professional and outstanding laboratory manager.
-
-
+Yaran Yang is a highly professional and outstanding laboratory manager. She is mainly responsible for the financial, administrative, and student management work of the research group,  as well as the genotype identification of genetically engineered mice.
