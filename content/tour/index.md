@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 20250304110844-Z2.jpg
             filters:
               brightness: 0.7
           position: right
