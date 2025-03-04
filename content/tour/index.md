@@ -45,7 +45,7 @@ sections:
         align: left
         background:
           image:
-            filename: ageing.png
+            filename: merge.jpg
             filters:
               brightness: 0.7
           position: center
