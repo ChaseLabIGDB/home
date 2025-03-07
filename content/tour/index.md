@@ -114,7 +114,7 @@ sections:
         align: right
         background:
           image:
-            filename: 20250303200442.jpg
+            filename: contact.jpg
             filters:
               brightness: 0.5
           position: center
