@@ -114,7 +114,7 @@ sections:
         align: right
         background:
           image:
-            filename: contact.jpg
+            filename: contact.png
             filters:
               brightness: 0.5
           position: center
